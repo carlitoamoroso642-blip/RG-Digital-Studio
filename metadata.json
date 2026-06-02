@@ -1,0 +1,6 @@
+{
+  "name": "ClickBoost AI",
+  "description": "Crie e edite thumbnails profissionais e de alto engajamento usando inteligência artificial e ferramentas avançadas de imagem com corte e redimensionamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
